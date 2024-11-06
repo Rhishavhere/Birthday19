@@ -26,8 +26,8 @@ export default function Reveal(){
                 and your love makes my world complete.
               </p>
               <p>
-                Every moment with you is a gift, and I'm grateful for each one.
-                You're not just my partner - you're my best friend, my adventure buddy,
+                Every moment with you is a gift, and Im grateful for each one.
+                Youre not just my partner - youre my best friend, my adventure buddy,
                 and my favorite person in the whole world.
               </p>
               <p>
