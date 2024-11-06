@@ -27,15 +27,15 @@ export default function Reveal(){
               </p>
               <p>
                 Every moment with you is a gift, and Im grateful for each one.
-                Youre not just my partner - youre my best friend, my adventure buddy,
+                Youre not just my partner youre my best friend, my adventure buddy,
                 and my favorite person in the whole world.
               </p>
               <p>
                 I hope this birthday brings you all the joy you deserve and more.
-                Here's to many more years of creating beautiful memories together.
+                Heres to many more years of creating beautiful memories together.
               </p>
               <p className="font-semibold">
-                Happy Birthday, my love! ❤️
+                Happy Birthday, my love ❤️
               </p>
               <p>Forever yours,</p>
               <p>Your Love</p>
