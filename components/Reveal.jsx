@@ -29,10 +29,10 @@ export default function Reveal(){
               <p className="font-sofia">
               Roses are red,<br></br>
 Violets are blue <br></br>
-But there's something else true<br></br>
+But there is something else true<br></br>
 Im head over heels, completely for you!<br></br><br></br>
 
-You're cute as a teddy<br></br>
+You are cute as a teddy<br></br>
 With every single day becoming more maddy<br></br><br></br>
 
 I would still hug you tight<br></br> 
