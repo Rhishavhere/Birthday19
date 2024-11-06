@@ -56,7 +56,7 @@ export const PhotoGallery = () => {
   };
 
   return (
-    <section className="mb-16">
+    <section className="mb-8 -mt-8">
       <h2 className="text-2xl font-semibold text-pink-600 mb-6 font-cedar">
         Piccsy Pics</h2>
 

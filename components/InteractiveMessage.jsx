@@ -30,8 +30,8 @@ export const InteractiveMessage = () => {
   };
 
   return (
-    <section className="mb-16">
-      <h2 className="text-2xl font-semibold text-pink-600 mb-6">Special Messages</h2>
+    <section className="mb-16 mt-28">
+      <h2 className="text-2xl font-semibold text-pink-600 mb-6 ">Special Messages</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {messages.map((msg) => (
           <motion.div
