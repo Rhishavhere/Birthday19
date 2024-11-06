@@ -9,8 +9,8 @@ import confetti from 'canvas-confetti';
 const messages = [
   {
     id: 1,
-    message: "You make every day special! 💕",
-    detail: "Your smile brightens even the darkest days..."
+    message: "You are the sweetiest person I have ever met 💕",
+    detail: "You are my girlfriend janooo heheh"
   },
   // Add more messages
 ];

@@ -20,7 +20,7 @@ export default function BirthdayWebsite() {
         </main>
         <footer className="text-center py-8 bg-white/50">
           <p className="text-lg text-pink-600">
-            With all my love, always and forever ❤️
+            Wishing you everything in life ❤️
           </p>
         </footer>
       </div>

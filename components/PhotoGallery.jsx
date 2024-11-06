@@ -1,6 +1,7 @@
 "use client"
 
 import { useState } from 'react';
+import Image from 'next/image';
 import {
   Carousel,
   CarouselContent,
@@ -56,7 +57,8 @@ export const PhotoGallery = () => {
 
   return (
     <section className="mb-16">
-      <h2 className="text-2xl font-semibold text-pink-600 mb-6">Our Beautiful Memories</h2>
+      <h2 className="text-2xl font-semibold text-pink-600 mb-6 font-cedar">
+        Piccsy Pics</h2>
 
       <Carousel
       plugins={[
@@ -65,9 +67,12 @@ export const PhotoGallery = () => {
         }),
       ]}>
         <CarouselContent className="text-4xl">
-          <CarouselItem>1</CarouselItem>
-          <CarouselItem>2</CarouselItem>
-          <CarouselItem>3</CarouselItem>
+          <CarouselItem className="basis-1/2"><img src="1.jpg" style={{ objectFit: 'cover', width: '100%', height: '200px' }} /></CarouselItem>
+          <CarouselItem className="basis-1/2"><img src="2.jpg" style={{ objectFit: 'cover', width: '100%', height: '200px' }} /></CarouselItem>
+          <CarouselItem className="basis-1/2"><img src="3.jpg" style={{ objectFit: 'cover', width: '100%', height: '200px' }} /></CarouselItem>
+          <CarouselItem className="basis-1/2"><img src="4.jpg" style={{ objectFit: 'cover', width: '100%', height: '200px' }} /></CarouselItem>
+          <CarouselItem className="basis-1/2"><img src="5.jpg" style={{ objectFit: 'cover', width: '100%', height: '200px' }} /></CarouselItem>
+          <CarouselItem className="basis-1/2"><img src="6.jpg" style={{ objectFit: 'cover', width: '100%', height: '200px' }} /></CarouselItem>
         </CarouselContent>
       </Carousel>
 

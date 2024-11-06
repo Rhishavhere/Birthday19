@@ -24,11 +24,11 @@ export const Header = () => {
         <Heart className="w-12 h-12 text-pink-500" />
       </motion.div>
       
-      <h1 className="text-4xl md:text-6xl font-bold text-pink-600 mb-4">
-        Happy Birthday, Sweetheart! 🎂
+      <h1 className="text-4xl md:text-6xl font-bold text-pink-600 mb-4 mt-4">
+        HAPPY BIRTHDAY SWEETHEART 🎂
       </h1>
-      <p className="text-xl text-purple-600">
-        Today is all about celebrating the amazing person you are! ✨
+      <p className="text-xl text-white font-cedar">
+        Many many happy returns of the day. Stay amazing as you are ! ✨
       </p>
     </motion.header>
   );

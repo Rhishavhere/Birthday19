@@ -53,7 +53,7 @@ export const MemoryGame = () => {
 
   return (
     <section className="mb-16">
-      <h2 className="text-2xl font-semibold text-pink-600 mb-6">Memory Game</h2>
+      <h2 className="text-2xl font-semibold text-pink-600 mb-6">Dekhi tomar memory</h2>
       <div className="grid grid-cols-4 gap-4">
         {cards.map((card) => (
           <motion.div

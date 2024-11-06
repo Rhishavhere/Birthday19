@@ -59,7 +59,14 @@ module.exports = {
   				'5': 'hsl(var(--chart-5))'
   			}
   		}
-  	}
+  	},
+		fontFamily: {
+  		poppins: ["Poppins","sans-serif"],
+  		cedar: ["Cedarville Cursive","cursive"],
+  		philo: ["Philosopher","sans-serif"],
+  		tiny: ["Tiny5","sans-serif"],
+  		sofia: ["Sofia","cursive"],
+  	},
   },
   plugins: [require("tailwindcss-animate")],
 }
